@@ -3,7 +3,7 @@
 ## Setup
 
 - first check if conda exists: `conda --version`
-- create conda virtual environment and install project dependencies: `conda env create --file config.yml --name {YOUR_ENV_NAME}`
+- create a virtual environment and install project dependencies: `conda env create --file config.yml --name {YOUR_ENV_NAME}`
 - activate the environment`conda activate {YOUR_ENV_NAME}`
 - start developing via jupyterlab: `jupyter lab`
 - (optional)deactivate once you finish using the environment: `conda deactivate`
