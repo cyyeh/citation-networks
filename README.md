@@ -2,7 +2,7 @@
 
 ## Installation Setups
 
-- `conda env create --file citation.yml --name {YOU_DECIDE}`
+- `conda env create --file config.yml --name {YOU_DECIDE}`
 - check if conda exists: `conda --version`
 - [輕鬆學習 Python：conda 的核心功能](https://medium.com/datainpoint/python-essentials-conda-quickstart-1f1e9ecd1025)
 
