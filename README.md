@@ -9,4 +9,4 @@
 
 ## References
  
-<script src="https://gist.github.com/cyyeh/f88f1b3419f8e6535ec8d0fbd653ddee.js"></script>
+https://gist.github.com/cyyeh/f88f1b3419f8e6535ec8d0fbd653ddee
